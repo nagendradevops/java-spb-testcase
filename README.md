@@ -1,0 +1,1 @@
+This is Java Spring boot application with two test cases
