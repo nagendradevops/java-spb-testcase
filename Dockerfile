@@ -2,7 +2,7 @@
 #FROM openjdk:8-jdk-alpine
 
 # For Java 11, try this
-FROM adoptopenjdk/openjdk11:alpine-jre
+FROM folioci/alpine-jre-openjdk11:latest
 #FROM adoptopenjdk/openjdk11:latest
 #FROM  adoptopenjdk/openjdk11:jdk-11.0.8_10-debian-slim
 
