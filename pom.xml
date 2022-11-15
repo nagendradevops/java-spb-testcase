@@ -18,7 +18,7 @@
   <snapshotRepository>
       <id>java-snap</id>
       <name>java-snapshot</name>
-      <url>https://nexus3-pipelines-tutorial.apps.amoslondondev.amosonline.io/repository/java-snapshot/</url>
+      <url>https://nexus3-pipelines-tutorial.apps.amoslondondev.amosonline.io/repository/java-snap/</url>
   </snapshotRepository>
   </distributionManagement>
   

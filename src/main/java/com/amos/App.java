@@ -16,4 +16,11 @@ public class App {
 		  return 0;
 	}
 
+	public static void main(String[] args) {
+        App.run(App.class, args);
+    }
+
+	private static void run(Class<App> class1, String[] args) {
+	}
+
 }
